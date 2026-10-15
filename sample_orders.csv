@@ -1,0 +1,5 @@
+order_id,customer,product,sku,quantity,order_status,expected_delivery,tracking_status,estimated_delivery,stock,alternatives
+ORD1025,Jordan Lee,Wireless Headphones,WH-100,1,shipped,2026-10-14,delayed,2026-10-17,12,Noise-Cancelling Headphones
+ORD1001,Sam Taylor,Smart Watch,SW-210,1,delivered,2026-10-13,delivered,2026-10-13,8,Fitness Band
+ORD1002,Alex Morgan,Portable Speaker,PS-330,1,processing,2026-10-18,not_shipped,2026-10-20,0,Bluetooth Mini Speaker
+ORD1003,Casey Rivera,Wireless Mouse,WM-410,1,shipped,2026-10-14,lost,unknown,5,Ergonomic Wireless Mouse
